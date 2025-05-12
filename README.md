@@ -1,6 +1,6 @@
 # 💻 Sushil Shinde | Cybersecurity & IT Support Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&color=white)](https://linkedin.com/in/sushil-shinde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&color=white)](https://linkedin.com/in/sushildshinde)
 [![Email](https://img.shields.io/badge/Email-shindesushil2001@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:shindesushil2001@gmail.com)
 ![Location](https://img.shields.io/badge/India-🇮🇳-green)
 
