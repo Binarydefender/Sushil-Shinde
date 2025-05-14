@@ -65,7 +65,7 @@ Hi, I’m **Sushil Shinde**, a passionate cybersecurity professional currently w
 Feel free to reach out to collaborate, discuss infosec projects, or for mentorship!
 
 📧 **shindesushil2001@gmail.com**  
-🔗 [**LinkedIn**](https://linkedin.com/in/sushil-shinde)  
+🔗 [**LinkedIn**](https://linkedin.com/in/sushildshinde)  
 📁 View my [Resume](https://drive.google.com/file/d/1wbdtIMpGaXCMEC__VxpDhehnBgQ1YAjC/view?usp=sharing).
 
 ---
