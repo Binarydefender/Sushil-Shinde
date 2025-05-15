@@ -6,7 +6,7 @@
 
 ---
 
-🔐 **Cybersecurity Enthusiast** | 🛠️ **IT Support Specialist** | 🌐 **Network Security Analyst**
+🔐 **Cybersecurity Professional** | 🛠️ **IT Support Specialist** | 🌐 **Network Security Analyst**
 
 Hi, I’m **Sushil Shinde**, a passionate cybersecurity professional currently working at **Ethika Insurance Broking Pvt. Ltd.** I specialize in securing systems, performing VAPT, and ensuring IT infrastructure is compliant, resilient, and optimized.
 
@@ -16,7 +16,7 @@ Hi, I’m **Sushil Shinde**, a passionate cybersecurity professional currently w
 
 - 🎓 B.Tech Graduate from **NIT Andhra Pradesh** (2024)
 - 🔍 Performed end-to-end **VAPT** and led successful **IRDAI Cybersecurity Audits**
-- 🧠 Identified & mitigated a **critical SQL Injection** vulnerability in production
+- 🧠 Identified & mitigated a **critical SQL Injection** vulnerabilities in production
 - 💬 Effective communicator, security-first mindset, and always ready to learn
 - 👨‍💻 Contributor to internal **React Native app development**, improving UI & performance
 
@@ -54,15 +54,15 @@ Hi, I’m **Sushil Shinde**, a passionate cybersecurity professional currently w
 
 ## 📈 Currently Working On
 
-- 🔒 Automating security log analysis using Splunk
-- 💬 Building secure mobile communication features in React Native
-- 🧪 Personal Cyber Lab for hands-on ethical hacking & threat detection
+- 🔒 Exploring the **Cybersecurity** field to make the internet safer place
+- 🧪 Personal Cyber Lab for hands-on ethical hacking & threat detection on Platforms like QuickLabs, Tryhackme, etc.
 
 ---
 
 ## 📫 Let’s Connect!
 
-Feel free to reach out to collaborate, discuss infosec projects, or for mentorship!
+- Feel free to reach out
+- 🌟 Open to Work | Actively seeking new opportunities in Tech & Security
 
 📧 **shindesushil2001@gmail.com**  
 🔗 [**LinkedIn**](https://linkedin.com/in/sushildshinde)  
