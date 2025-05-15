@@ -56,6 +56,7 @@ Hi, I’m **Sushil Shinde**, a passionate cybersecurity professional currently w
 
 - 🔒 Exploring the **Cybersecurity** field to make the internet safer place
 - 🧪 Personal Cyber Lab for hands-on ethical hacking & threat detection on Platforms like QuickLabs, Tryhackme, etc.
+- 📚 Learning DevOps
 
 ---
 
